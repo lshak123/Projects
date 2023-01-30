@@ -28,3 +28,4 @@
  
  ### 3. 등급 별 구매 품목을 분석하여 적절한 맞춤형 상품/서비스를 제시
 
+<img width="601" alt="image" src="https://user-images.githubusercontent.com/87609200/215305876-39ad4389-72e4-49f9-b0d4-b241bcf40789.png">
