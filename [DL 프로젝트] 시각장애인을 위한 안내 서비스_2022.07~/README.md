@@ -12,6 +12,8 @@
 Object detection, OCR, 음성 모델등을 통해 시각장애인들의 눈이되어 보행상황을 도와주고자 서비스를 제작했다.
 <br/>
 
+![image](https://user-images.githubusercontent.com/97331900/216985328-daa7d289-3474-4baa-abd8-b2bcaab2654e.png)
+
 ## 프로젝트 과정
 #### 1. Object Detection
 input으로 길거리 이미지 정보가 전달되면 자동차, 자전거 등 총 29가지의 장애물에 대해 Object Detection을 통해 객체를 탐지한다. 모델은 ***DETR***모델을 사용해 데이터를 도보 상황에 맞는 데이터로 전처리 후 학습을 통해 활용했다.
