@@ -25,4 +25,3 @@
 - 방향을 틀어 kernel based 모델인 FILM, AdaCoF, CDFI 모델들의 구조를 파악하고, 모델의 구조를 변경하여 성능을 올리고자 실험중
     - 해당 연구는 AdaCoF모델을 선정하여 이미지를 받아들이는 U-Net 구조에서 구조 변경을 통한 성능 향상을 기대하고 있음.
     - VFI모델들의 Base Dataset인 Vimeo Triplet 데이터셋과 이전에 전처리했던 K-pop 안무영상 데이터를 모두 확인해보며, 모델의 성능 향상, 경량화 등 다양한 실험을 진행중임
-![image](https://user-images.githubusercontent.com/97331900/217249193-830e24dc-4d7e-42fd-a7d8-45dd5691385c.png)
